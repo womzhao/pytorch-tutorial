@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 # Hyper-parameters
 input_size = 1
 output_size = 1
-num_epochs = 60
+num_epochs = 1
 learning_rate = 0.001
 
 # Toy dataset
